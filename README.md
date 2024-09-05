@@ -1,7 +1,7 @@
  👋 Hi, I’m @joepbuijs
- 👀 I’m interested in mcu  and a real amateur of 67years old
- 🌱 I’m currently learning platformio tutorials
- 💞️ I’m looking to collaborate on domoticz
+ 👀 I’m interested in mcu  and a real amateur 
+ 🌱 I’m currently learning a littlebit linux deb
+ 💞️ I’m looking to chance things on domoticz
  📫 How to reach me 
 <!---
 joepbuijs/joepbuijs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
